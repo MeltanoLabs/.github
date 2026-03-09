@@ -15,10 +15,10 @@ targetUrl: https://sdk.meltano.com/en/latest/CONTRIBUTING.html#semantic-pull-req
 # The values allowed for the "type" part of the PR title/commit message.
 # e.g. for a PR title/commit message of "feat: add some stuff", the type would be "feat"
 types:
-  - ci
-  - chore
   - break
   - build
+  - ci
+  - chore
   - docs
   - feat
   - fix
