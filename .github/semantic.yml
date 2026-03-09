@@ -17,6 +17,7 @@ targetUrl: https://sdk.meltano.com/en/latest/CONTRIBUTING.html#semantic-pull-req
 types:
   - ci
   - chore
+  - break
   - build
   - docs
   - feat
